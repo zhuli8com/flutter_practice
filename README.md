@@ -1,1 +1,11 @@
-# flutter_practice
+# dart
+
+[官网](https://dart.cn/)
+
+## 数据类型
+
+### 变量与常量
+
+1. var
+2. const：初始值必须是静态且不可动态变化
+3. final：初始值必须是静态但是可以动态变化
