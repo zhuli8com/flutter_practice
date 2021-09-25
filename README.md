@@ -4,12 +4,16 @@
 
 ## 数据类型
 
+<<<<<<< HEAD
 https://api.dart.cn/stable/2.14.2/dart-core/dart-core-library.html
 
+=======
+>>>>>>> 8897a5f1c02bc3ae3896a3165402448fedb5d5d7
 ### 变量与常量
 
 1. var
 2. const：初始值必须是静态且不可动态变化
+<<<<<<< HEAD
 3. final：初始值必须是静态但是可以动态变化
 
 ### 字符串
@@ -45,3 +49,6 @@ https://dart.cn/guides/language/language-tour#lists
 # 资料
 
 api: https://api.devio.org/uapi/swagger-ui.html
+=======
+3. final：初始值必须是静态但是可以动态变化
+>>>>>>> 8897a5f1c02bc3ae3896a3165402448fedb5d5d7
